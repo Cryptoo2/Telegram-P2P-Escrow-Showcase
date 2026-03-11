@@ -8,7 +8,9 @@ An enterprise-grade, production-ready Telegram Bot designed to facilitate secure
 
 ## 🎥 Project Demo
 *(You can upload a short GIF or a link to your YouTube video here showcasing the bot's workflow)*
-https://youtu.be/9evaAvTL2No?si=Z32r9NtZ-tFmAUiN
+## 🎥 Project Demo
+
+**[📺 Click Here to Watch the Full Demo Video on YouTube](https://youtu.be/9evaAvTL2No)**
 
 ## 🚀 Key Features
 
