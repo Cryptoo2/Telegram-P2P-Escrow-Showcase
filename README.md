@@ -7,14 +7,10 @@ An enterprise-grade, production-ready Telegram Bot designed to facilitate secure
 ---
 
 ## 🎥 Project Demo
-*(You can upload a short GIF or a link to your YouTube video here showcasing the bot's workflow)*
-## 🎥 Project Demo
 
-## 🎥 Project Demo
+**[📺 Click Here to Watch the Full Demo Video on YouTube](https://youtu.be/9evaAvTL2No)**
 
-[![P2P Escrow Bot Demo](https://img.youtube.com/vi/9evaAvTL2No/maxresdefault.jpg)](https://youtu.be/9evaAvTL2No)
-
-*Click the image above to watch the full automated workflow in action.*
+---
 
 ## 🚀 Key Features
 
